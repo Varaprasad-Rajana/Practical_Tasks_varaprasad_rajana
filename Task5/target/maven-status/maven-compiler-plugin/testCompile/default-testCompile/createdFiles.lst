@@ -1,0 +1,6 @@
+org\example\testCases\BaseTest.class
+org\example\utilities\ReadConfig.class
+org\example\utilities\ReadXLSdata.class
+org\example\pageObjects\LoginPage.class
+org\example\testCases\TC_LoginTest_001.class
+org\example\utilities\ExtentReporting.class
