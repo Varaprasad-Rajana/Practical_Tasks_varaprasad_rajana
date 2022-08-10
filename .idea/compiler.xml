@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Task5" />
+        <module name="Maven_task" />
       </profile>
     </annotationProcessing>
   </component>
